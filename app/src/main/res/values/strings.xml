@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">El Mecánico Loco</string>
+    <string name="lblnombre">Nombre</string>
+    <string name="txtNombre"></string>
+    <string name="lbltelf">Teléfono</string>
+    <string name="txtTelf"></string>
+    <string name="lblmatricula">Matrícula</string>
+    <string name="txtMatricula"></string>
+    <string name="lblbtncontinuar">Continuar</string>
+    <string name="logotipo">logotipo</string>
+    <string name="title_activity_reserva">Reserva</string>
+    <string name="logotipo2">logotipo</string>
+    <string name="lblconfirma">El Mecánico Loco Confirmar Reserva</string>
+    <string name="btnreservar">Reservar</string>
+    <string name="lblencargo">Tipo de encargo</string>
+    <string name="lblotroSlect">indicar por favor</string>
+    <string name="lblotro"></string>
+    <string name="lblcheckpendiente">Pendiente de Peritage</string>
+    <string name="lblaseguradora">Aseguradora</string>
+    <string name="lblconfirmarreserva">Confirmar Reserva</string>
+    <string name="mensaje1">Su reserva ha sido confirmada. </string>
+    <string name="mensaje2">En breve le indicaremos fecha y hora por SMS</string>
+    <string name ="alertaMarca">Debe seleccionar una Marca, por favor</string>
+    <string-array name="marcas">
+        <item>Marca</item>
+        <item>Audi</item>
+        <item>Citroen</item>
+        <item>Peugot</item>
+        <item>Renault</item>
+    </string-array>
+    <string-array name="modelos">
+        <item>Modelo</item>
+    </string-array>
+
+    <string-array name="mAudi">
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+    </string-array>
+    <string-array name="mCitroen">
+        <item>Picasso</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C5</item>
+    </string-array>
+    <string-array name="mPeugot">
+        <item>206</item>
+        <item>306</item>
+        <item>406</item>
+        <item>407</item>
+    </string-array>
+    <string-array name="mRenault">
+        <item>Clio</item>
+        <item>Twingo</item>
+        <item>Kangoo</item>
+        <item>Megane</item>
+    </string-array>
+
+
+
+
+</resources>
